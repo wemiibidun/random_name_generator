@@ -27,7 +27,7 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ## Screenshot
-![Sample image](https://github.com/wemiibidun/)
+![Sample image](https://github.com/wemiibidun/random_name_generator/blob/main/random_app_image.png)
 
 ## Technologies (Language, Library and Framework)
 * Javascript
