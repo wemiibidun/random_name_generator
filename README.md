@@ -18,7 +18,7 @@ The aim of this project is to build a full stack web application based on my kno
 
 In the project directory, you can run:
 
-# `npm start`
+#### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
