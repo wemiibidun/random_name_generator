@@ -20,8 +20,8 @@ In the project directory, you can run:
 
 #### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This will run the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
@@ -43,7 +43,7 @@ The GUI of this project allows users to:
 Project is: _Complete_
 
 ## Inspiration
-This project is part of Codecademy Full-Stack Engineer career path.
+This project was created by using [Junior Developer Central YouTube Tutorial](https://www.youtube.com/watch?v=u0xSchpjgAA&ab_channel=JuniorDeveloperCentral)
 
 ## Contact
 Created by [@wemiibidun](https://twitter.com/wemiibidun/). Feel free to contact me via wemiibidun@gmail.com
