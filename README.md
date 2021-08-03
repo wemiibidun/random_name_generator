@@ -4,7 +4,7 @@ This is a web API, built with Express and Node.js, that generates random names (
 ## Table of contents
 * [Introduction](#introduction)
 * [Screenshot](#screenshot)
-* [Available Scripts](#)
+* [Available Scripts](#available-scripts)
 * [Technologies](#technologies-language-library-and-framework)
 * [Features](#features)
 * [Status](#status)
