@@ -36,8 +36,7 @@ You will also see any lint errors in the console.
 * Express
 
 ## Features
-The GUI of this project allows users to:
-* Generate random first names and last names by clicking on the "Get Name" button
+The GUI of this project generates random first and last names when the user clicks on the "Get Name" button.
 
 ## Status
 Project is: _Complete_
