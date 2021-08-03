@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Georama:wght@600&family=Prompt:wght@300&family=Yeseva+One&display=swap');
+
+body{
+    font-family: 'Georama', sans-serif;
+    font-weight: 600;
+    background-image: url('/assets/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.title{
+    /* font-family: 'Trebuchet MS', sans-serif; */
+    font-family: 'Yeseva One';
+    font-weight: bolder;
+}
+
+.intro-text{
+    margin-top: 2em;
+    font-style: italic;
+    font-weight: 500;
+}
+  
+
+.btn{
+    font-family: 'Prompt', sans-serif;
+    margin-top: 2em;
+}
+
+
+
