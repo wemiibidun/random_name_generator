@@ -4,6 +4,7 @@ This is a web API, built with Express and Node.js, that generates random names (
 ## Table of contents
 * [Introduction](#introduction)
 * [Screenshot](#screenshot)
+* [Available Scripts](#)
 * [Technologies](#technologies-language-library-and-framework)
 * [Features](#features)
 * [Status](#status)
@@ -12,6 +13,18 @@ This is a web API, built with Express and Node.js, that generates random names (
 
 ## Introduction
 The aim of this project is to build a full stack web application based on my knowledge with Node JS, Express and APIs
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
 ## Screenshot
 ![Sample image](https://github.com/wemiibidun/)
