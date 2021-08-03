@@ -46,4 +46,4 @@ Project is: _Complete_
 This project was created by using [Junior Developer Central YouTube Tutorial](https://www.youtube.com/watch?v=u0xSchpjgAA&ab_channel=JuniorDeveloperCentral)
 
 ## Contact
-Created by [@wemiibidun](https://twitter.com/wemiibidun/). Feel free to contact me via wemiibidun@gmail.com
+Created by [@wemiibidun](https://twitter.com/wemiibidun/). Feel free to contact me about this project via wemiibidun@gmail.com
