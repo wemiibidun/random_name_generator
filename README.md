@@ -20,10 +20,11 @@ In the project directory, you can run:
 
 #### `npm start`
 
-This will run the app in the development mode.\
+This will run the app in the development mode.
+
 Open [http://localhost:3000](http://localhost:3000) to view the random name generator page in your browser.
 
-You will need to reload the server if you make edits.\
+You will need to reload the server if you make edits.
 
 ## Screenshot
 ![Sample image](https://github.com/wemiibidun/random_name_generator/blob/main/random_app_image.png)
