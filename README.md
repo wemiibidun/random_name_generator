@@ -1,3 +1,6 @@
+
+![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/random_name_generator)
+
 # Random Name Generator
 This is a web API, built with Express and Node.js, that generates random names (first and last name). Vanilla JS was used for the front end to grab the information from the API
 
