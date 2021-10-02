@@ -45,7 +45,7 @@ The GUI of this project generates random first and last names when the user clic
 Project is: _Complete_
 
 ## Inspiration
-This project was created by using [Junior Developer Central YouTube Tutorial](https://www.youtube.com/watch?v=u0xSchpjgAA&ab_channel=JuniorDeveloperCentral)
+This project was created with the support of [Junior Developer Central's YouTube Tutorial](https://www.youtube.com/watch?v=u0xSchpjgAA&ab_channel=JuniorDeveloperCentral)
 
 ## Contact
 Created by [@wemiibidun](https://twitter.com/wemiibidun/). Feel free to contact me about this project via wemiibidun@gmail.com
