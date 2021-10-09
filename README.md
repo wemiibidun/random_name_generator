@@ -1,5 +1,7 @@
 
-![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/random_name_generator)
+![Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/random_name_generator)
+![Status](https://flat.badgen.net/github/status/micromatch/micromatch)
+
 
 
 # Random Name Generator
