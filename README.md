@@ -36,12 +36,13 @@ You will need to reload the server if you make edits.
 ![Sample image](https://github.com/wemiibidun/random_name_generator/blob/main/random_app_image.png)
 
 ## Technologies (Language, Library and Framework)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=61DAFB)
 ![Javascript](https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB)
-* Javascript
+![NodeJS](https://img.shields.io/badge/node-20232A?style=for-the-badge&logo=node&logoColor=61DAFB)
+* CSS
 * Bootstrap
+* Javascript
 * Node JS
 * Express
 
