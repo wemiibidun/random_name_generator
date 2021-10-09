@@ -39,7 +39,7 @@ You will need to reload the server if you make edits.
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=61DAFB)
 ![Javascript](https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/node-20232A?style=for-the-badge&logo=node&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=61DAFB)
 * CSS
 * Bootstrap
 * Javascript
