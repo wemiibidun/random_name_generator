@@ -1,6 +1,6 @@
 
 ![Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/random_name_generator)
-![Status](https://flat.badgen.net/github/status/micromatch/micromatch)
+![GitLab Languages](https://img.shields.io/github/languages/count/wemiibidun/random_name_generator)
 
 
 
