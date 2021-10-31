@@ -4,7 +4,7 @@
 
 
 # Random Name Generator
-This is a web API, built with Express and Node.js, that generates random names (first and last name). Vanilla JS was used for the front end to grab the information from the API
+This is a web API, built with Express and Node.js, that generates random names (first and last name). Vanilla JS was used for the front end to grab the information from the API.
 
 ## Table of contents
 * [Introduction](#introduction)
