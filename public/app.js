@@ -6,6 +6,10 @@ const lengthInput = document.querySelector('#length');
 const errorBox = document.querySelector('#errorBox');
 const copyAllBtn = document.querySelector('#copyAll');
 
+const API_BASE = window.location.hostname.includes('render.com')
+  ? 'https://random-name-generator-kyiw.onrender.com'
+  : '';
+
 const setError = (message) => {
   if (!message) {
     errorBox.classList.add('d-none');
@@ -42,7 +46,7 @@ const loadRandomName = async () => {
   const query = buildQuery();
 
   try {
-    const response = await fetch(`/random-name?${query}`);
+    const response = await fetch(`${API_BASE}/random-name?${query}`);
     const data = await response.json();
 
     if (!response.ok) {
