@@ -14,7 +14,7 @@
 Random Name Lab is a full‑stack name generator built with Node.js and Express. It provides a simple API with filters and a clean UI for generating batches of names.
 
 ## Screenshot
-![Sample image](https://github.com/wemiibidun/weather_app2_react/blob/main/Screen%20Shot.png)
+![Sample image](https://github.com/wemiibidun/random_name_generator/blob/main/random-name.png)
 
 ## Technologies
 * Node.js + Express — API and server
